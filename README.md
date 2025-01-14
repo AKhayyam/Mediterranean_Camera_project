@@ -36,10 +36,10 @@ Building interactive and dynamic dashboards to simplify data storytelling.
 Using drill-through and slicers for in-depth analysis.
 Designing a visually appealing and intuitive dashboard.
 
-###🎥 Video Demo
+* 🎥 Video Demo
 Check out the Demo Video to see the dashboard in action.
 
-###💡 How to Use This Project
+* 💡 How to Use This Project
 Download the Mediterranean_Camera_Project.pbix file.
 Open it in Power BI Desktop.
 
